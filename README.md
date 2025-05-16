@@ -4,24 +4,22 @@
 
 ## Acerca de Mí
 
-- 💻 **Soy apasionado por la programación**.
-- 🌟 Utilizo librerías y frameworks como React y Spring Boot.
+- 💻 **Soy indagadr por la programación**.
+- 🌟 Utilizo librerías y frameworks con Js
 - 🌐 Hablo inglés y español.
 
 ## Habilidades
 
-- 👨‍💻 **Frontend**: React, Tailwind CSS
-- ☕ **Backend**: Java, Spring Boot
-- 😼 **Control de versiones**: Git, GitHub
+- 👨‍💻 **Frontend**: React,Next.js ,Vite. js , Tailwind CSS
+- ☕ **Backend**: Express js 
+- 😼 **Control de versiones**: Git, GitHub , Node
 - 🗣️ **Idiomas**: Inglés, Español
 
 ## Redes Sociales
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gherson-acosta-99519a201/)
--
-- [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soutnix)
-- 
--  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](acostagherson@gmail.com)
+-- 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](acostagherson@gmail.com)
 -  
 ## Contacto
 
